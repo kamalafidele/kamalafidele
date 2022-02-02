@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi there 👋
+My name is Kamara fidele.
+I am a full stack developer.
+
+TECHNOLOGIES
 
 <!--
 **kamalafidele/kamalafidele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![391906110_WAVING_HAND_400px](https://user-images.githubusercontent.com/74622768/152101885-cc52d031-b1e4-407f-aef3-287cfc619ceb.gif)
