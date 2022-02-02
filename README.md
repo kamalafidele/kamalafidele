@@ -3,7 +3,7 @@ My name is Kamara fidele.
 I am a full stack developer.
 
 TECHNOLOGIES
-
+https://img.shields.io/badge/javascript-Javascript-green
 <!--
 **kamalafidele/kamalafidele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
