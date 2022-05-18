@@ -26,6 +26,9 @@ TECHNOLOGIES
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-CPP-lightgrey?style=for-the-badge)
 ![C Badge](https://img.shields.io/badge/C-C-yellowgreen?style=for-the-badge)
 ![Python Badge](https://img.shields.io/badge/Python-yellowgreen?style=for-the-badge)
+![Docker Badge](https://img.shields.io/badge/Docker-blue?style=for-the-badge)
+![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge)
+![AWS Badge](https://img.shields.io/badge/AWS-orange?style=for-the-badge)
 
 <!--
 **kamalafidele/kamalafidele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
