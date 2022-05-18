@@ -25,6 +25,7 @@ TECHNOLOGIES
 ![Git Badge](https://img.shields.io/badge/Git-GitHub-blue?style=for-the-badge)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-CPP-lightgrey?style=for-the-badge)
 ![C Badge](https://img.shields.io/badge/C-C-yellowgreen?style=for-the-badge)
+![Python Badge](https://img.shields.io/badge/Python-yellowgreen?style=for-the-badge)
 
 <!--
 **kamalafidele/kamalafidele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
