@@ -7,6 +7,10 @@ I am currently learning software engineering at Rwanda Coding Academy.<br>
 I 
 
 # FIND ME ON SOCIAL MEDIA:
+### Twitter: https://twitter.com/KamalaFidele
+### Linkedin: https://www.linkedin.com/in/kamara-fidele-516bb2200/
+### Facebook: https://www.facebook.com/kamala.fidel/
+### Portfolio: http://kamara-fidel.me/
 
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FKamalaFidele)
 
@@ -14,7 +18,7 @@ I
 ## MBONERA 
    This is an online platform which helps people to get their lost official documents 
    such as Passports, VISAs, National IDs, Driving licenses.. by connecting them with those who have found them.
-   ## Link: https://mbonera.live
+   ### Link: https://mbonera.live
 ## JUSTDOIT
    This is a social platform where people discuss world matters and interesting topics that you like..
    ### Link: https://justdoit-rw.tech
