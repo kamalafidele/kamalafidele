@@ -19,7 +19,7 @@ I
    This is a social platform where people discuss world matters and interesting topics that you like..
    ### Link: https://justdoit-rw.tech
    
-# TECHNOLOGIES
+# TECHNICAL SKILLS
 
 ![Javascript Badge](https://img.shields.io/badge/javascript-Javascript-green?style=for-the-badge)
 ![NODEJS Badge](https://img.shields.io/node/v/socket.io?style=for-the-badge)
