@@ -1,4 +1,4 @@
-## PERSONAL INFO
+# PERSONAL INFO
 Hi there 👋
 
 My name is Kamara fidele.
@@ -6,19 +6,20 @@ I am a full stack developer.<br>
 I am currently learning software engineering at Rwanda Coding Academy.<br>
 I 
 
-## FIND ME ON SOCIAL MEDIA:
+# FIND ME ON SOCIAL MEDIA:
 
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FKamalaFidele)
 
-## PROJECTS
-# MBONERA 
+# PROJECTS
+## MBONERA 
    This is an online platform which helps people to get their lost official documents 
    such as Passports, VISAs, National IDs, Driving licenses.. by connecting them with those who have found them.
-   ## Link: mbonera.live
-# JUSTDOIT
+   ## Link: https://mbonera.live
+## JUSTDOIT
    This is a social platform where people discuss world matters and interesting topics that you like..
+   ### Link: https://justdoit-rw.tech
    
-## TECHNOLOGIES
+# TECHNOLOGIES
 
 ![Javascript Badge](https://img.shields.io/badge/javascript-Javascript-green?style=for-the-badge)
 ![NODEJS Badge](https://img.shields.io/node/v/socket.io?style=for-the-badge)
