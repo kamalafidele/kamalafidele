@@ -4,15 +4,6 @@ Hi there 👋
 My name is Kamara fidele.
 I am a full stack developer.<br>
 I am currently learning software engineering at Rwanda Coding Academy.<br>
-I 
-
-# FIND ME ON SOCIAL MEDIA:
-### Twitter: https://twitter.com/KamalaFidele
-### Linkedin: https://www.linkedin.com/in/kamara-fidele-516bb2200/
-### Facebook: https://www.facebook.com/kamala.fidel/
-### Portfolio: http://kamara-fidel.me/
-
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FKamalaFidele)
 
 # PROJECTS
 ## MBONERA 
@@ -43,6 +34,12 @@ I
 ![Docker Badge](https://img.shields.io/badge/Docker-blue?style=for-the-badge)
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge)
 ![AWS Badge](https://img.shields.io/badge/AWS-orange?style=for-the-badge)
+
+# FIND ME ON SOCIAL MEDIA:
+### Twitter: https://twitter.com/KamalaFidele
+### Linkedin: https://www.linkedin.com/in/kamara-fidele-516bb2200/
+### Facebook: https://www.facebook.com/kamala.fidel/
+### Portfolio: http://kamara-fidel.me/
 
 <!--
 **kamalafidele/kamalafidele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
