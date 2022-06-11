@@ -35,7 +35,7 @@ I am currently learning software engineering at Rwanda Coding Academy.<br>
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge)
 ![AWS Badge](https://img.shields.io/badge/AWS-orange?style=for-the-badge)
 
-# FIND ME ON SOCIAL MEDIA:
+# MY SOCIAL MEDIAS:
 ### Twitter: https://twitter.com/KamalaFidele
 ### Linkedin: https://www.linkedin.com/in/kamara-fidele-516bb2200/
 ### Facebook: https://www.facebook.com/kamala.fidel/
